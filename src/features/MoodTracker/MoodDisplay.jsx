@@ -1,3 +1,5 @@
+import "./MoodDisplay.css";
+
 export default function MoodDisplay() {
   return (
     <div>
