@@ -1,0 +1,6 @@
+.kpi-section {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}

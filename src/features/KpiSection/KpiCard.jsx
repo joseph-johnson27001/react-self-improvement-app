@@ -1,8 +1,10 @@
+import "./KpiCard.css";
+
 export default function KpiCard({ title, value }) {
   return (
-    <div>
-      <h3>{title}</h3>
-      <p>{value}</p>
+    <div className="kpi-card">
+      <h3 className="kpi-title">{title}</h3>
+      <p className="kpi-value">{value}</p>
     </div>
   );
 }
