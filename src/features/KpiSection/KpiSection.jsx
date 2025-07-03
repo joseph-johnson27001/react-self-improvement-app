@@ -7,6 +7,7 @@ export default function KpiSection() {
       <KpiCard title="Hours Slept" value="7.5" />
       <KpiCard title="Steps Walked" value="10,200" />
       <KpiCard title="Meditation" value="15 mins" />
+      <KpiCard title="Exercise" value="60 mins" />
     </section>
   );
 }
