@@ -5,8 +5,8 @@ export default function Dashboard() {
   return (
     <main className="main-container">
       <h1>Self Improvement Dashboard</h1>
-      <MoodTracker />
       <KpiSection />
+      <MoodTracker />
     </main>
   );
 }
